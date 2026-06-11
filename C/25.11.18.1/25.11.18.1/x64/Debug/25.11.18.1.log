@@ -1,0 +1,5 @@
+﻿  1.c
+E:\code\25.11.18.1\1.c(8,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\25.11.18.1\1.c(10,50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\code\25.11.18.1\1.c(12,50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  25.11.18.1.vcxproj -> E:\code\25.11.18.1\x64\Debug\25.11.18.1.exe

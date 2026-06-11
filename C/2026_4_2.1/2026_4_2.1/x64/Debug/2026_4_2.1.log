@@ -1,0 +1,14 @@
+﻿  game.c
+E:\code\2026_4_2.1\game.c(28,18): error C2065: “row”: 未声明的标识符
+E:\code\2026_4_2.1\game.c(28,22): error C2065: “j”: 未声明的标识符
+E:\code\2026_4_2.1\game.c(38,2): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\code\2026_4_2.1\game.c(44,8): warning C4013: “rand”未定义；假设外部返回 int
+E:\code\2026_4_2.1\game.c(44,17): error C2065: “row”: 未声明的标识符
+E:\code\2026_4_2.1\game.c(46,8): error C2065: “mine”: 未声明的标识符
+E:\code\2026_4_2.1\game.c(46,12): error C2109: 下标要求数组或指针类型
+E:\code\2026_4_2.1\game.c(48,5): error C2065: “mine”: 未声明的标识符
+E:\code\2026_4_2.1\game.c(48,9): error C2109: 下标要求数组或指针类型
+E:\code\2026_4_2.1\game.c(19,1): error C1075: “{”: 未找到匹配令牌
+  test.c
+E:\code\2026_4_2.1\test.c(18,24): error C2197: “void DisplayBoard(char (*)[11],int)”: 用于调用的参数太多
+  正在生成代码...
